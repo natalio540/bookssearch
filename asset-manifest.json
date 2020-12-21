@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bookssearch/static/css/main.ee8bb5e4.chunk.css",
+    "main.js": "/bookssearch/static/js/main.8d61e6eb.chunk.js",
+    "main.js.map": "/bookssearch/static/js/main.8d61e6eb.chunk.js.map",
+    "runtime-main.js": "/bookssearch/static/js/runtime-main.705be322.js",
+    "runtime-main.js.map": "/bookssearch/static/js/runtime-main.705be322.js.map",
+    "static/js/2.d40bfa8e.chunk.js": "/bookssearch/static/js/2.d40bfa8e.chunk.js",
+    "static/js/2.d40bfa8e.chunk.js.map": "/bookssearch/static/js/2.d40bfa8e.chunk.js.map",
+    "static/js/3.4eaa19a9.chunk.js": "/bookssearch/static/js/3.4eaa19a9.chunk.js",
+    "static/js/3.4eaa19a9.chunk.js.map": "/bookssearch/static/js/3.4eaa19a9.chunk.js.map",
+    "index.html": "/bookssearch/index.html",
+    "static/css/main.ee8bb5e4.chunk.css.map": "/bookssearch/static/css/main.ee8bb5e4.chunk.css.map",
+    "static/js/2.d40bfa8e.chunk.js.LICENSE.txt": "/bookssearch/static/js/2.d40bfa8e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/bookssearch/static/media/bookcase-1869616_1280.7fc88987.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.705be322.js",
+    "static/js/2.d40bfa8e.chunk.js",
+    "static/css/main.ee8bb5e4.chunk.css",
+    "static/js/main.8d61e6eb.chunk.js"
+  ]
+}
